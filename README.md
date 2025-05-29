@@ -57,4 +57,4 @@ This project gave me valuable experience working with FastAPI for backend API de
 
 ## Acknowledgements
 
- - [The design and idea are taken from: frontendmentor.io]([https://www.frontendmentor.io/challenges/ip-address-tracker-I8-0yYAH0])
+ - [The design and idea are taken from: frontendmentor.io](https://www.frontendmentor.io/challenges/ip-address-tracker-I8-0yYAH0)
